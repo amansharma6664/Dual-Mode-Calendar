@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Dual-Mode-Calendar
+ A versatile React-based Dual Mode Calendar that toggles between a traditional monthly calendar view and an event scheduler, allowing users to manage events with a visually appealing, interactive interface.
+>>>>>>> 34e512254941411d92c1bd295fa449d2684b02e2
